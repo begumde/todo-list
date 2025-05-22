@@ -2,6 +2,8 @@
 
 A modern, user-friendly task management application built with Python and CustomTkinter.
 
+## GITHUB LINK: https://github.com/begumde/todo-list
+
 ## Features
 
 - **User Management**
